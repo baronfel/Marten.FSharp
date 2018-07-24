@@ -31,7 +31,7 @@
 
   <ItemGroup>
     <PackageReference Include="FSharp.Core" Version="4.2.3" />
-    <PackageReference Include="Marten" Version="2.7.1" />
+    <PackageReference Include="Marten" Version="2.9.0" />
   </ItemGroup>
 
 

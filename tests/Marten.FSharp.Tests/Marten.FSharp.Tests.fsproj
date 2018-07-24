@@ -17,7 +17,6 @@
     <!--<PackageReference Include="Expecto.FsCheck" Version="5.0.0-*" />-->
     <ProjectReference Include="../../src/Marten.FSharp/Marten.FSharp.fsproj" />
     <DotNetCliToolReference Include="dotnet-mono" Version="0.5.2" />
-    <DotNetCliToolReference Include="Microsoft.DotNet.Watcher.Tools" Version="2.0.1" />
   </ItemGroup>
 </Project>
 
